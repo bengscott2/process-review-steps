@@ -5,7 +5,7 @@
 ** Make sure to keep talking through your process workshop/ review. It will help the reviewer understand what you’re doing
 
 ## Step 1 - PLANNING PHASE 1
-* Understand the requirements
+* Understand the requirements - During a review these requirements probably won't be given to you automatically. You will need to ask the reviewer these questions and set out the expectations yourself.
 	* What is the expected input?
 	* What is the expected output?
 	* What does a final passing spec look like?
