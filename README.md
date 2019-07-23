@@ -1,6 +1,6 @@
 # Process Workshop Steps
 
-** Anything with two asterisks was a note from Alice. You can find a picture of the drawing that Alice did of the process on a white board in this repo.
+** Anything with two asterisks was a note from Alice. Alice drew out this process on a whiteboard and you can see that [here](https://github.com/bengscott2/process-review-steps/blob/master/Alice's%20Whiteboard%20Drawing.jpg)
 
 ** Make sure to keep talking through your process workshop/ review. It will help the reviewer understand what you’re doing
 
