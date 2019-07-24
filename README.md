@@ -42,7 +42,6 @@
 	* This should be the test that you’ve already decided as the easiest and most simple input/ output.
 	* ```require``` your code file at the top of the spec file
 	* Write your `describe` and `it` blocks
-	* If you need to declare a class then remember to do that prior to writing your expect line. `some_class = Some_Class.new`
 	* Watch your test fail.
 	* I like to have the test fail on requiring the file and let that drive me to creating the file.
 	* ```mkdir lib```
@@ -61,6 +60,8 @@
 **Move on to Step 3**
 
 ## Step 3 - PLANNING PHASE 2
+
+#### This phase can be iterative. You can plan then go back to testing and get that passing then go back to planning. Even running the same test multiple times to get your code working. 
 
 * Here is where you will want to start demystifying the black box.
 * Start thinking about how you can solve this problem and get to the final acceptance criteria.
